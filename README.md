@@ -17,7 +17,7 @@ The COVID-19 pandemic posed an unprecedented challenge, driving the global devel
 
 ## Global Vaccination Progress (2020-2024)
 
-![Global Vaccination Progress](./2020_2024_A_Trillion_Level_Overview.png)
+<img src="./2020-2024_A_Trillion_Level_Overview.png" alt="Global Vaccination Progress" width="50%">
 
 This graph illustrates global vaccination progress from 2020 to 2024. The sharp increase between 2020 and 2023 shows the rapid rollout of vaccines, with a notable decline in 2024.
 
@@ -28,7 +28,7 @@ This graph illustrates global vaccination progress from 2020 to 2024. The sharp 
 
 ## Top 20 Regions by Booster Vaccinations
 
-![Top 20 Regions by Booster Vaccinations](./Top20RegionsByTotalBoosterVaccinations.png)
+<img src="./Top20RegionsByTotalBoosterVaccinations.png" alt="Top 20 Regions by Booster Vaccinations" width="50%">
 
 This chart displays the top 20 regions by total booster vaccinations. Wealthier regions lead the booster rollout, with significant variations even among high-income countries.
 
@@ -39,7 +39,7 @@ This chart displays the top 20 regions by total booster vaccinations. Wealthier 
 
 ## Vaccination Rates Per 100 People
 
-![Vaccination Rates Per 100 People](./Vaccination_Rates_Per_100_People_A_Regional_Comparison.png)
+<img src="./Vaccination_Rates_Per_100_People_A_Regional_Comparison.png" alt="Vaccination Rates Per 100 People" width="50%">
 
 This bar chart compares vaccination rates per 100 people across different regions. The data highlights regional disparities, with countries like Canada and Cuba leading in terms of coverage.
 
@@ -50,7 +50,7 @@ This bar chart compares vaccination rates per 100 people across different region
 
 ## World Map of Vaccination Rates
 
-![World Map of Vaccination Rates](./World_Map_Of_COVID_19_Vaccinations_per100_People.png)
+<img src="./World_Map_Of_COVID_19_Vaccinations_per100_People.png" alt="World Map of Vaccination Rates" width="50%">
 
 The world map visualizes the distribution of vaccinations per 100 people across countries. Darker regions represent higher vaccination rates, while lighter regions show lower coverage.
 
