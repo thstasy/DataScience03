@@ -17,7 +17,7 @@ The COVID-19 pandemic posed an unprecedented challenge, driving the global devel
 
 ## Global Vaccination Progress (2020-2024)
 
-![Global Vaccination Progress](./2020-2024_A_Trillion-Level Overview.png)
+![Global Vaccination Progress](./2020-2024_A_Trillion_Level_Overview.png)
 
 This graph illustrates global vaccination progress from 2020 to 2024. The sharp increase between 2020 and 2023 shows the rapid rollout of vaccines, with a notable decline in 2024.
 
@@ -39,7 +39,7 @@ This chart displays the top 20 regions by total booster vaccinations. Wealthier 
 
 ## Vaccination Rates Per 100 People
 
-![Vaccination Rates Per 100 People](./Vaccination-Rates_Per-100_People_A_Regional_Comparison.png)
+![Vaccination Rates Per 100 People](./Vaccination_Rates_Per_100_People_A_Regional_Comparison.png)
 
 This bar chart compares vaccination rates per 100 people across different regions. The data highlights regional disparities, with countries like Canada and Cuba leading in terms of coverage.
 
@@ -50,7 +50,7 @@ This bar chart compares vaccination rates per 100 people across different region
 
 ## World Map of Vaccination Rates
 
-![World Map of Vaccination Rates](./World_Map_of_COVID-19_Vaccinations_per-100-People.png)
+![World Map of Vaccination Rates](./World_Map_Of_COVID_19_Vaccinations_per100_People.png)
 
 The world map visualizes the distribution of vaccinations per 100 people across countries. Darker regions represent higher vaccination rates, while lighter regions show lower coverage.
 
