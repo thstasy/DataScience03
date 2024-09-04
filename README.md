@@ -17,7 +17,7 @@ The COVID-19 pandemic posed an unprecedented challenge, driving the global devel
 
 ## Global Vaccination Progress (2020-2024)
 
-![Global Vaccination Progress](./2020-2024_A_Trillion_Level_Overview.png)
+![Global Vaccination Progress](./2020_2024_A_Trillion_Level_Overview.png)
 
 This graph illustrates global vaccination progress from 2020 to 2024. The sharp increase between 2020 and 2023 shows the rapid rollout of vaccines, with a notable decline in 2024.
 
